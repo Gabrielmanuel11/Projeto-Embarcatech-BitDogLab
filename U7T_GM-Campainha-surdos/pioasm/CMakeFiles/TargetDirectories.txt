@@ -1,0 +1,3 @@
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/pioasm/CMakeFiles/pioasm.dir
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/pioasm/CMakeFiles/edit_cache.dir
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/pioasm/CMakeFiles/rebuild_cache.dir

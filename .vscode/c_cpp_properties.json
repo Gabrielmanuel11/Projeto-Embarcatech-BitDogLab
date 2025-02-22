@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/pride/.pico-sdk/sdk/2.1.0/**",
+                "/home/pride/.pico-sdk/sdk/2.1.0/src/**",
+                "/home/pride/.pico-sdk/sdk/2.1.0/lib/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
