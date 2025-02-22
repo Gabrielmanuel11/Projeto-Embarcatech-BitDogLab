@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/CMakeFiles/ELF2UF2Build
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/CMakeFiles/ELF2UF2Build.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/CMakeFiles/ELF2UF2Build-complete.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/pride/Personal-staff/Projeto-Embarcatech/U7T_GM-Campainha-surdos/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
